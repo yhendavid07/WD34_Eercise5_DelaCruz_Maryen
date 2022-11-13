@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+body{background:url("kodego.png") no-repeat; background-size: cover;}
+    
+div {
+    background: rgba(23, 240, 219, 2);
+    color: rgba(255, 0, 188, 0.5); 
+    font-family: 'Handlee', cursive;
+    margin: 50px 10px 10px 10px; font-weight: bold; 
+    padding: 20px 50px 20px 50px ; border:inset; 
+    border-radius: .5in;
+    -webkit-box-shadow: 20px 20px 57px 8px rgba(245,0,188,0.86);
+    -moz-box-shadow: 20px 20px 57px 8px rgba(245,0,188,0.86);
+    box-shadow: 20px 20px 57px 8px rgba(245,0,188,0.86);
+    word-spacing: 5px;
+    letter-spacing: 10px;} 
+#ID1{
+
+    color: blue;
+}
+#ID2{
+    background:yellow; border: 0.5in; border: groove ;
+}
+#id3{
+    background: url("firstimg.jpeg") ; color: yellow;
+    margin-left: 4in; margin-right: 4in; padding-top: 2in; padding-bottom: 2in;
+    
+}
+.samplebox{background: blue; color: yellow; 
+    margin: 10px 10px 10px 10px; font-weight: bold; 
+    padding: 20px 50px 20px 450px ; border:inset; 
+    -webkit-box-shadow: 20px 20px 57px 8px rgba(245,0,188,0.86);
+    -moz-box-shadow: 20px 20px 57px 8px rgba(245,0,188,0.86);
+    box-shadow: 20px 20px 57px 8px rgba(245,0,188,0.86);} 
+.overflowsample{
+    height: 300px;
+    width: 500px;
+    overflow: scroll;background:url("kodego.png");color: black;
+    text-indent: 20px;}
